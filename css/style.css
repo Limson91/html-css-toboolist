@@ -102,74 +102,40 @@ li {
     font-size: 20px;
 }
 
-.flag-edit {
+/*style flag*/
+
+.flag {
     display: inline-block;
     font-size: 9px;
     color: white;
+    /* background-color: #45ABEA; */
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
+}
+
+.edit {
     background-color: #45ABEA;
-    border-radius: 8px;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 25px;
-    padding: 0.15em 1em;
 }
 
-.flag-goals {
-    display: inline-block;
-    font-size: 9px;
-    color: white;
+.goals {
     background-color: #9C72E4;
-    border-radius: 8px;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 25px;
-    padding: 0.15em 1em;
 }
 
-.flag-recr {
-    display: inline-block;
-    font-size: 9px;
-    color: white;
+.recr {
     background-color:#64C0A9;
-    border-radius: 8px;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 25px;
-    padding: 0.15em 1em;
 }
 
-.flag-mobile {
-    display: inline-block;
-    font-size: 9px;
-    color: white;
+.mobile {
     background-color: #F29E33;
-    border-radius: 8px;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 25px;
-    padding: 0.15em 1em;
 }
 
-.flag-web {
-    display: inline-block;
-    font-size: 9px;
-    color: white;
+.web {
     background-color: #D963A1;
-    border-radius: 8px;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 25px;
-    padding: 0.15em 1em;
 }
 
-.flag-sales {
-    display: inline-block;
-    font-size: 9px;
-    color: white;
+.sales {
     background-color: #B0C926;
-    border-radius: 8px;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 25px;
-    padding: 0.15em 1em;
 }

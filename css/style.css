@@ -17,6 +17,7 @@ ul, ol {
 
 .main-header {
     padding: 10px 25px;
+    background-color: white;
 }
 
 .title {
@@ -29,15 +30,15 @@ ul, ol {
 
 main {
     background-color: #f6f8f9;
+    padding: 40px;
 }
 
 .container {
-    max-width: 700px;
-    background-color: white;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
-.button_task {
+.button-task {
     background-color: #47ADF1;
     color: white;
     padding: 5px 15px;
@@ -46,11 +47,21 @@ main {
     text-align: center;
 }
 
-.button_section {
+.button-section {
     background-color: white;
     color: gray;
     padding: 5px 15px;
     font-size: 13px;
     border-radius: 8px;
     text-align: center;
+}
+
+.btn {
+    background-color: white;
+    padding: 10px 50px;
+}
+
+.list-container {
+    background-color: white;
+    padding: 10px 50px;
 }

@@ -64,7 +64,7 @@ main {
 
 .list-container {
     background-color: white;
-    padding: 10px 50px;
+    padding: 50px 50px;
     margin-top: 5px;
 }
 
@@ -96,4 +96,80 @@ main {
 
 li {
     padding: 7px;
+}
+
+.title-list {
+    font-size: 20px;
+}
+
+.flag-edit {
+    display: inline-block;
+    font-size: 9px;
+    color: white;
+    background-color: #45ABEA;
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
+}
+
+.flag-goals {
+    display: inline-block;
+    font-size: 9px;
+    color: white;
+    background-color: #9C72E4;
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
+}
+
+.flag-recr {
+    display: inline-block;
+    font-size: 9px;
+    color: white;
+    background-color:#64C0A9;
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
+}
+
+.flag-mobile {
+    display: inline-block;
+    font-size: 9px;
+    color: white;
+    background-color: #F29E33;
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
+}
+
+.flag-web {
+    display: inline-block;
+    font-size: 9px;
+    color: white;
+    background-color: #D963A1;
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
+}
+
+.flag-sales {
+    display: inline-block;
+    font-size: 9px;
+    color: white;
+    background-color: #B0C926;
+    border-radius: 8px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    padding: 0.15em 1em;
 }
